@@ -46,7 +46,7 @@ const Blog: React.FC = () => {
           Dior Blog & News
         </h1>
         <p className="text-lg text-gray-700 mb-8 text-center">
-          Stay updated with the latest news and trends from Dior.
+          Stay updated with latest news and trends from Dior.
         </p>
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
           {blogPosts.map((item, index) => (
