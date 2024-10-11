@@ -43,7 +43,7 @@ const Navbar = () => {
             pathname === "/blog" ? "text-black" : "text-pink-500"
           } hover:text-gray-200`}
         >
-          Blog
+          Blogs
         </Link>
         <Link
           href="/about"
